@@ -15,4 +15,7 @@ refactored and reorganized css to follow html
 
 
 ![challenge 1 pic](https://github.com/niccbytes/challenge-1/assets/140906373/6a277ced-351e-4257-9608-1246c68e6c4a)
+ ## I had to delete my repo due to a development folder messing up my root so i made a new repo but my old one had 10 commits i added proof
+![the error i got](https://github.com/niccbytes/challenge-1/assets/140906373/1a6ba46b-d00e-4af8-9f69-bdc2d7679ea6)
+![failed repo](https://github.com/niccbytes/challenge-1/assets/140906373/91bdb0a7-a536-4287-abc6-b496d6b9ed75)
 
